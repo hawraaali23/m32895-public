@@ -1,2 +1,4 @@
 # Virtual environment
 venv/
+raw_datasets/
+
